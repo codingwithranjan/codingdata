@@ -47,3 +47,12 @@ cin>>b;
     cout << "Entered character is a Numeric and the value is " << ch << endl;
   }
 } 
+//while condition 
+int n;
+ cin>> n;
+ int i =1;
+ while (i<=n)
+ {
+    cout<<i<<" ";
+    i=i+1;
+ }
