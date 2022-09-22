@@ -56,3 +56,16 @@ int n;
     cout<<i<<" ";
     i=i+1;
  }
+// sum of even numbers to n using while loop
+int n;
+cin>>n;
+int i= 2;
+int sum = 0;
+while (i<=n){
+sum = sum + i;
+i=i+2;
+
+}
+cout<<"value of sum"<<" "<<sum<<endl;
+
+}
