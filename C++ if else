@@ -58,6 +58,7 @@ int n;
  }
 // sum of even numbers to n using while loop
 int n;
+ cout << "Enter the value of n : " << endl;
 cin>>n;
 int i= 2;
 int sum = 0;
